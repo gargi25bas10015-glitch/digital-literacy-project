@@ -1,0 +1,30 @@
+TASK 5 
+
+Part B– Prevention Checklist:
+
+Stay Safe Online – Cybercrime Prevention Checklist
+
+🔒 General Safety Practices:
+
+Always use strong and unique passwords for different accounts
+2. Enable Two-Factor Authentication (2FA) wherever possible
+3. Avoid clicking on suspicious links or unknown emails/messages
+4. Do not share personal information on untrusted websites or platforms
+5. Regularly update apps and devices to maintain security
+
+ 💳 UPI & Financial Safety:
+
+Never share your UPI PIN or OTP with anyone, even if they claim to be from the bank
+2.  Do not approve unknown “Collect Requests” on payment apps
+3. Remember: Scanning a QR code or entering a PIN means you are **sending** money, not receiving it
+4. Verify the receiver’s details before making any payment
+
+ 🚨 Reporting Cybercrime:
+
+ Report any cyber fraud immediately at: **https://www.cybercrime.gov.in**
+2. Call the Cyber Crime Helpline: **1930 (24x7)**
+3. Inform your bank as soon as possible in case of financial fraud
+
+
+Conclusion:
+Following these precautions can help individuals stay safe online, avoid cyber threats, and protect their personal and financial information effectively.
